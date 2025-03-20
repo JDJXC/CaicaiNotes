@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/CaicaiNotes/',
   lang: 'zh-CN',
   title: 'Caicai的洛必达法则',
   description: 'Caicai的洛必达法则',
