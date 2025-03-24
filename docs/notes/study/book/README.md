@@ -6,3 +6,5 @@ permalink: /book/
 
 [Java并发编程的艺术](./Java并发编程的艺术/README.md)
 
+[深入理解Java虚拟机-第3版](./深入理解Java虚拟机-第3版/README.md)
+
